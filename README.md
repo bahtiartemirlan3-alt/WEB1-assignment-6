@@ -14,6 +14,6 @@ Multi-page site that demonstrates jQuery basics. jQuery 3.7.1 is loaded from a C
 | project.html | Task 11 (Accordion Menu mini project) |
 
 ## How to run
-Open `index.html` in a browser (internet is needed for the CDN and images), or visit the published site: **add your GitHub Pages / Netlify link here**.
+Open `index.html` in a browser (internet is needed for the CDN and images), or visit the published site:[ **add your GitHub Pages / Netlify link here**.](https://bahtiartemirlan3-alt.github.io/WEB1-assignment-6/)
 
 
